@@ -13,10 +13,10 @@
     <img src="images/logo.png" alt="Logo" width="95" height="95">
   </a>
 
-  <h1 align="center">COVID-19 Date Selector</h1>
+  <h1 align="center">David and Goliath Soccer</h1>
 
   <p align="center">
-    Visualize the spread of COVID-19 on a day-by-day basis
+    Play a game of soccer with David and Goliath
     <br />
     <a href="https://github.com/chinarjoshi/david-and-goliath-soccer"><strong>Explore the docs »</strong></a>
     <br />
