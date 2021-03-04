@@ -16,7 +16,7 @@
   <h1 align="center">Pico and Goliath</h1>
 
   <p align="center">
-    Play a game of soccer with David and Goliath
+    By Martin Vassiliv
     <br />
     <a href="https://github.com/chinarjoshi/david-and-goliath-soccer"><strong>Explore the docs »</strong></a>
     <br />
