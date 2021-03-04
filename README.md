@@ -58,7 +58,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+pico is nimble but weak, goliath is powerful but hefty
 <h3 align="center">
     This project was submitted to
     <a href="https://www.fultonschools.org/Page/9521/">
