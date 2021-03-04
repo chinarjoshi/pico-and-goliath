@@ -13,7 +13,7 @@
     <img src="images/logo.png" alt="Logo" width="95" height="95">
   </a>
 
-  <h1 align="center">Pico and the Juggernaut</h1>
+  <h1 align="center">Pico and Goliath</h1>
 
   <p align="center">
     Play a game of soccer with David and Goliath
