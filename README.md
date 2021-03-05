@@ -16,7 +16,7 @@
   <h1 align="center">Pico and Goliath</h1>
 
   <p align="center">
-    By Martin Vassiliv
+    
     <br />
     <a href="https://github.com/chinarjoshi/david-and-goliath-soccer"><strong>Explore the docs »</strong></a>
     <br />
