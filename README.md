@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/chinarjoshi/pico-and-goliath">
-    <img src="images/logo.png" alt="Logo" width="95" height="95">
+    <img src="images/goliath.png" alt="Logo" width="95" height="95">
   </a>
 
   <h1 align="center">Pico and Goliath</h1>
