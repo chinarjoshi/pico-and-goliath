@@ -80,7 +80,7 @@
 The way the physics engine is implemented is different from the standard billiard-ball collision; the collisions are based on the velocity and mass deltas alone, ignoring position deltas. This enables both Pico and Goliath to "catch" the ball and get a finer control over it. This feature allows the players to set up combo attacks using the boundaries of the game to their advantage.
 
 ### Inspiration
-The name 'Pico' comes from the metric prefix for a trillionth, and Goliath from the story of David and Goliath. My inspiration behind this game are two different paradigms of starting classes in Dark Souls. Pico is inspired from the thief build, who has high endurance and dexterity but starts with just a knife, and Goliath is inspired from the knight build, with a full body of armor and a broadsword, but cannot even roll. Thus, I took a creative approach and implmented these ideas in the form of interactive disks powered by a physics engine of my own implementation.
+The name 'Pico' comes from the metric prefix for a trillionth, and 'Goliath' from the story of David and Goliath. My inspiration behind this game are two different paradigms of starting classes in Dark Souls. Pico is inspired from the thief build, who has high endurance and dexterity but starts with just a knife, and Goliath is inspired from the knight build, with a full body of armor and a broadsword, but cannot even roll. Thus, I took a creative approach and implmented these ideas in the form of interactive disks powered by a physics engine of my own implementation.
 
 
 ## Strategy Guide
