@@ -16,7 +16,7 @@
 
 <br>
 
-#### [Goal icon](htps://www.dreamstime.com/football-soccer-goal-icon-vector-white-background-sign-image177305228)
+#### [Goal icon](https://www.dreamstime.com/football-soccer-goal-icon-vector-white-background-sign-image177305228)
 
 By [Arybickii](https://www.dreamstime.com/arybickii_info)
 
