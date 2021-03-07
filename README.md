@@ -161,6 +161,12 @@ Launch PicoAndGoliath.exe
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/chinarjoshi/pico-and-goliath">
+    <img src="gallery/Volume.png" alt="example-image" width=900 height=500>
+  </a>
+</p>
+
 
 
 
