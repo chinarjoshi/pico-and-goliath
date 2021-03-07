@@ -97,7 +97,7 @@ A skilled Pico player knows how to control the ball and always be in the game, a
 ### Built With
 
 * [Pygame](https://www.pygame.org/news)
-* [Pygame_Menu](https://pygame-menu.readthedocs.io/en/3.5.8/)
+* [Pygame-Menu](https://pygame-menu.readthedocs.io/en/3.5.8/)
 
 
 ## Getting Started
