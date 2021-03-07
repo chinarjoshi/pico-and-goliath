@@ -16,7 +16,7 @@
   <h1 align="center">Pico and Goliath</h1>
 
   <p align="center">
-    Play a competitive 2-player arcade game. 
+    Play a fast paced competitive 2-player arcade game. 
     <br />
     <a href="https://github.com/chinarjoshi/pico-and-goliath"><strong>Explore the docs »</strong></a>
     <br />
