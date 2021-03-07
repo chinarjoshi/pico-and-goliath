@@ -74,40 +74,49 @@
 
 
 ### Inspiration
+My inspiration behind this game are two different paradigms of starting classes in Dark Souls. Pico is inspired from the thief build, who has high endurance and dexterity but starts with just a knife, and Goliath is inspired from the knight build, with a full body or armor and a broadsword, but cannot even roll. Thus, I took a creative approach and implmented these two ideas in the form of disks.
 
 
-### What it does
+### Description
+This is a fast paced competitive 2-player arcade game in which the players play as either Pico or Goliath. The objective of the game is to hit the ball 3 times into the opponents goal. The combination of the two starkly different character paradigms combined with the innovative physics engine allows for very deep gameplay with a high skill-ceiling. The way the physics engine is implemented is different from the standard billiard-ball collision in that the collisions are based on velocity alone. This enables Pico and Goliath to "catch" the ball and get a finer control over it.
+
+## Strategy Guide
+
+### Pico:
+Pico is fast and nimble, but he can’t hit the ball as hard. As such Pico should always stay in the same plane as the balls position because he can easily reach its position anywhere. However, if Goliath is able to power hit the ball on track to the goal, there’s basically nothing Pico can do. Thus, picos strategy is to keep the ball out of favorable position for Goliath. He needs to act as the controller of the game, because once Pico loses control of the balls position, Goliath has the ability to quickly end the game. At the start of every round, Pico can of course reach the ball first, but he should try to rebound the ball of the edge so Goliath doesn’t have a clear strike on the goal. Pico also has the least inertia so it’s important to always stay in motion in order to take advantage of his strengths.
 
 
-### How I built it
+### Goliath:
+Goliath is powerful hit also hefty. He can hit the ball with great power but is not very maneuverable. As such Goliath should always control the center and protect his goal, only leaving it when there’s an opportunity to strike. If Goliath misses his shot, this opens up the nimble Pico to give a quick strike to the goal. Goliath has a lot of inertia, so it’s important not to lose your position and hold central territory. If Goliath is out of position, this is much more lethal than for Pico. Goliath’s goal is to distrust picos control of the ball or wait for him to make a mistake, in which he had the power to end the game very quickly. Once Goliath lands a powerful strike on the ball on target to the goal, pico is too light to stop it in time.  However, Goliath cannot ball hog because the goals constantly move in opposite directions
 
+While both characters are equally difficult, they have vastly different play styles. Pico is like a knife while Goliath is like a claymore. Pico aims to get quick strikes and avoid giving Goliath the opportunity to strike, while Goliath aims to set up his position to land a game-ending strike.
 
-### Challenges I ran into
-
-
-### Accomplishments that I'm proud of
-
+A skilled Pico player knows how to control the ball and always be in the game, and a skilled Goliath player knows when to be patient when when the opportunity to strike arises. 
 
 
 ### Built With
 
-* [Dash](https://plotly.com/dash)
-* [Bootstrap](https://getbootstrap.com)
+* [Pygame](https://www.pygame.org/news)
+* [Pygame_Menu](https://pygame-menu.readthedocs.io/en/3.5.8/)
 
 
 ## Getting Started
 
-No API key is needed to access the tool, so the application may be locally run through the python file.
+The application may be run through either the precompiled binary or running the main.py file.
 
 ### Prerequisites
+**Only necessary for latter option**
 
-The prerequisite frameworks and libraries are dash, plotly, and pandas.
 * pip
   ```sh
-  pip install requirements.txt
+  pip install -r requirements.txt
   ```
 
-### Installation
+### How to use
+
+Launch PicoAndGoliath.exe
+
+**OR**
 
 #### Compile Source
 
@@ -117,27 +126,22 @@ The prerequisite frameworks and libraries are dash, plotly, and pandas.
    ```
 2. Install prerequisite packages
    ```sh
-   pip install requirements.txt
+   pip install -r requirements.txt
    ```
 4. Directly run the python file
    ```sh
-   python covid19-date-selector/app.py
+   python pico-and-goliath/main.py
    ```
 
-#### Docker
-
-1. __TODO__
-
 <!-- USAGE EXAMPLES -->
-## Usage
+## Gallery
 
 <p align="center">
   <a href="https://github.com/chinarjoshi/pico-and-goliath">
-    <img src="images/original.png" alt="example-image" width=900 height=600>
+    <img src="images/main.png" alt="example-image" width=900 height=600>
   </a>
 </p>
 
-This tool can be used for research purposes to find the exact number of cases in a specific county on any day. It is useful to see the patterns of infection and death rate increases/decreases. For example, it can be seen that the number of infections skyrocketed in early January after the holiday season. The tool is useful for establishing patterns such as this.
 
 _For more examples, please refer to the [Documentation](https://github.com/chinarjoshi/pico-and-goliath)_
 
@@ -147,13 +151,13 @@ _For more examples, please refer to the [Documentation](https://github.com/china
 __See the [open issues](https://github.com/chinarjoshi/pico-and-goliath/issues) for a list of proposed features (and known issues).__
 <br>
 
-The following features will be implemented in the indefinite future:
-1. Expanded dataset to include:
-    - Mask usage
-    - Population Density
-    - Demographic breakdown
-2.  Dark theme
-3.  An option to use the program in the command line
+The following features and balance changes will be implemented in the future:
+1. Powerups:
+    - Pico moves faster
+    - Goliath hits the ball harder
+    - Either player gets a second avater of themselves
+2.  Tweak physics engine to buff Goliath's power.
+3.  Give option to change character's size and speed in settings.
 
 
 <!-- CONTRIBUTING -->
@@ -183,7 +187,7 @@ Project Link: [Github](https://github.com/chinarjoshi/pico-and-goliath)
 
 
 ## Acknowledgements
-* [Virus Icon](https://dndi.org/diseases/covid-19/target-product-profile/)
+*For image and audio acknowledgements, please see acknowledgements.md*
 * [Readme Template](https://github.com/othneildrew/Best-README-Template)
 * [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
