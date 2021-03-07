@@ -13,11 +13,11 @@ import sys
 import pygame as pg
 import pygame_menu as pg_menu
 from pygame_menu import sound
-from core.disks import Pico, Goliath, Ball
-from core.goals import Goal
-from core.settings import size, FPS, GOAL_TALLY, main_font, win_font, win_subfont
-from core.music import Sounds
-from core.collision_engine import CollisionEngine
+from src.collision_engine import CollisionEngine
+from src.disks import Pico, Goliath, Ball
+from src.goals import Goal
+from src.music import Sounds
+from src.settings import size, FPS, GOAL_TALLY, main_font, win_font, win_subfont
 
 
 class PicoAndGoliath:
