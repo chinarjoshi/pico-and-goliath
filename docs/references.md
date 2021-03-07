@@ -1,6 +1,6 @@
 # Credits
 
-### All resources used are licensed under [Creative Commons](https://creativecommons.org/).
+### All resources used are licensed as open source.
 
 <br>
 
