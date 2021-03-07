@@ -25,7 +25,7 @@ By [Arybickii](https://www.dreamstime.com/arybickii_info)
 ## Music
 
 ### [Background](https://patrickdearteaga.com/arcade-music/)
-By [Patrick de Arteaga](patrickdearteaga.com)
+By [Patrick de Arteaga](https://patrickdearteaga.com)
 
 ### [Sound effects](https://kenney.nl/assets/interface-sounds)
 https://kenney.nl
