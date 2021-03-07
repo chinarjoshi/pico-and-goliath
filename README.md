@@ -68,7 +68,7 @@
 
 <p align="center">
   <a href="https://github.com/chinarjoshi/pico-and-goliath">
-    <img src="gallery/Main.png" alt="example-image" width=900 height=500>
+    <img src="gallery/Main.png" alt="example-image" width=950 height=500>
   </a>
 </p>
 
@@ -139,31 +139,31 @@ Launch PicoAndGoliath.exe
 
 <p align="center">
   <a href="https://github.com/chinarjoshi/pico-and-goliath">
-    <img src="gallery/Gameplay.png" alt="example-image" width=900 height=500>
+    <img src="gallery/Gameplay.png" alt="example-image" width=950 height=500>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/chinarjoshi/pico-and-goliath">
-    <img src="gallery/Pico.png" alt="example-image" width=900 height=500>
+    <img src="gallery/Pico.png" alt="example-image" width=950 height=500>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/chinarjoshi/pico-and-goliath">
-    <img src="gallery/Goliath.png" alt="example-image" width=900 height=500>
+    <img src="gallery/Goliath.png" alt="example-image" width=950 height=500>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/chinarjoshi/pico-and-goliath">
-    <img src="gallery/Menu.png" alt="example-image" width=900 height=500>
+    <img src="gallery/Menu.png" alt="example-image" width=950 height=500>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/chinarjoshi/pico-and-goliath">
-    <img src="gallery/Volume.png" alt="example-image" width=900 height=500>
+    <img src="gallery/Volume.png" alt="example-image" width=950 height=500>
   </a>
 </p>
 
