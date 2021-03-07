@@ -123,7 +123,7 @@ Launch PicoAndGoliath.exe
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/cjoshi7/covid19-date-selector
+   git clone https://github.com/chinarjoshi/pico-and-goliath
    ```
 2. Install prerequisite packages
    ```sh
