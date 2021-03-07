@@ -125,6 +125,7 @@ The application may be run through either the precompiled binary or running the 
 ### How to use
 
 Launch PicoAndGoliath.exe
+
 *Note: Windows defender may mark the precompiled binary as a threat as it is an unregistered executable. However, it is safe to download.*
 
 **OR**
