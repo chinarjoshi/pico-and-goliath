@@ -139,7 +139,7 @@ Launch PicoAndGoliath.exe
 
 <p align="center">
   <a href="https://github.com/chinarjoshi/pico-and-goliath">
-    <img src="gallery/Menu.png" alt="example-image" width=900 height=500>
+    <img src="gallery/Gameplay.png" alt="example-image" width=900 height=500>
   </a>
 </p>
 
@@ -157,9 +157,11 @@ Launch PicoAndGoliath.exe
 
 <p align="center">
   <a href="https://github.com/chinarjoshi/pico-and-goliath">
-    <img src="gallery/Main.png" alt="example-image" width=900 height=500>
+    <img src="gallery/Menu.png" alt="example-image" width=900 height=500>
   </a>
 </p>
+
+
 
 
 _For more examples, please refer to the [Documentation](https://github.com/chinarjoshi/pico-and-goliath)_
