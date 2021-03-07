@@ -112,6 +112,7 @@ class PicoAndGoliath:
 
         Args:
             events (list): Contains all current events defined by pygame.
+            
         """
         for event in events:
             if event.type == pg.QUIT:
@@ -171,6 +172,7 @@ class PicoAndGoliath:
             window (pg): Pygame window the images should be blitted onto.
             objects (list): Contains agents who have a blittable image as
                 an attribute.
+                
         """
         for object in objects:
             window.blit(object.image, (object.position[0], object.position[1]))
