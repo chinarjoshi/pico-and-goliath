@@ -6,7 +6,7 @@ please see README.md.
 
     Typical usage example:
 
-        python3 Pico-And-Goliath/main.py
+        python3 pico-and-goliath/main.py
 
 """
 import sys
