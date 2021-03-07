@@ -16,7 +16,7 @@
   <h1 align="center">Pico and Goliath</h1>
 
   <p align="center">
-    Play a fast paced competitive 2-player arcade game
+    Play a fast paced competitive 2-player arcade-style game
     <br />
     <a href="https://github.com/chinarjoshi/pico-and-goliath"><strong>Explore the docs »</strong></a>
     <br />
@@ -73,7 +73,7 @@
 </p>
 
 ### Description
-*Pico and Goliath* is a fast paced competitive 2-player arcade game in which the players play as either Pico or Goliath. The objective of the game is to hit the ball into the opponent's moving goal 3 times. The combination of the two starkly different character paradigms combined with an innovative physics engine allows for very rich gameplay with a high skill-ceiling. 
+*Pico and Goliath* is a fast paced competitive 2-player arcade-style game in which the players play as either Pico or Goliath. The objective of the game is to hit the ball into the opponent's moving goal 3 times. The combination of the two starkly different character paradigms combined with an innovative physics engine allows for very rich gameplay with a high skill-ceiling. 
 
 #### Collision Engine
 
