@@ -73,7 +73,11 @@
 </p>
 
 ### Description
-This is a fast paced competitive 2-player arcade game in which the players play as either Pico or Goliath. The objective of the game is to hit the ball into the opponents goal 3 times. The combination of the two starkly different character paradigms combined with an innovative physics engine allows for very deep gameplay with a high skill-ceiling. The way the physics engine is implemented is different from the standard billiard-ball collision; the collisions are based on velocity alone. This enables Pico and Goliath to "catch" the ball and get a finer control over it. This feature allows the players to set up combo attacks using the boundaries of the game to their advantage.
+*Pico and Goliath* is a fast paced competitive 2-player arcade game in which the players play as either Pico or Goliath. The objective of the game is to hit the ball into the opponent's moving goal 3 times. The combination of the two starkly different character paradigms combined with an innovative physics engine allows for very rich gameplay with a high skill-ceiling. 
+
+#### Collision Engine
+
+The way the physics engine is implemented is different from the standard billiard-ball collision; the collisions are based on the velocity and mass deltas alone, ignoring position deltas. This enables both Pico and Goliath to "catch" the ball and get a finer control over it. This feature allows the players to set up combo attacks using the boundaries of the game to their advantage.
 
 ### Inspiration
 My inspiration behind this game are two different paradigms of starting classes in Dark Souls. Pico is inspired from the thief build, who has high endurance and dexterity but starts with just a knife, and Goliath is inspired from the knight build, with a full body of armor and a broadsword, but cannot even roll. Thus, I took a creative approach and implmented these ideas in the form of interactive disks powered by a physics engine of my own implementation.
