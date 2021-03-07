@@ -1,7 +1,6 @@
 # Credits
 
-### All resources used are licensed as open source.
-
+### All resources used are licensed under permissive use. See documentation below.
 <br>
 
 ## Images
