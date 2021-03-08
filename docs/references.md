@@ -3,6 +3,16 @@
 ### All resources used are licensed under permissive use. See documentation below.
 <br>
 
+## Libraries
+
+### [Pygame](https://www.pygame.org/news)
+- Open Source
+
+### [Pygame-Menu](https://pygame-menu.readthedocs.io/en/3.5.8/)
+- Open Source
+
+
+
 ## Images
 
 ### [Compass Free Icon](https://www.flaticon.com/free-icon/compass_4291719?term=circle&page=1&position=64&page=1&position=64&related_id=4291719&origin=search)
