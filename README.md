@@ -21,7 +21,7 @@
     <a href="https://github.com/chinarjoshi/pico-and-goliath"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://youtu.be/v6lsjcFfK9Q">View Demo</a>
+    <a href="https://www.youtube.com/watch?v=NgD0EJs4IqE">View Demo</a>
     ·
     <a href="https://github.com/chinarjoshi/pico-and-goliath/issues">Report Bug</a>
     ·
