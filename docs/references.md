@@ -6,10 +6,10 @@
 ## Libraries
 
 ### [Pygame](https://www.pygame.org/news)
-- Open Source
+- [GNU Lesser General Public License](https://github.com/pygame/pygame/blob/main/docs/LGPL.txt)
 
 ### [Pygame-Menu](https://pygame-menu.readthedocs.io/en/3.5.8/)
-- Open Source
+- [MIT License](https://github.com/ppizarror/pygame-menu/blob/master/LICENSE)
 
 
 
