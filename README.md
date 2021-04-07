@@ -60,9 +60,9 @@
 ## About The Project
 
 <h3 align="center">
-    This project was submitted to
+    This project won 1st place at
     <a href="https://www.fultonschools.org/Page/9521">
-        Fulton County Tech Fair
+        FCS Tech Competition
     </a>
 </h3>
 
