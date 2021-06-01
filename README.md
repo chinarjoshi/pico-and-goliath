@@ -59,13 +59,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<h3 align="center">
-    This project won 1st place at
-    <a href="https://www.fultonschools.org/Page/9521">
-        FCS Tech Competition
-    </a>
-</h3>
-
 <p align="center">
   <a href="https://github.com/chinarjoshi/pico-and-goliath">
     <img src="gallery/Main.png" alt="example-image" width=920 height=500>
